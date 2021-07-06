@@ -1,4 +1,4 @@
-package ethKeys
+package ethkeys
 
 import (
 	"crypto/ecdsa"
