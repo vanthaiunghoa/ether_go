@@ -1,4 +1,4 @@
-package ethTxn
+package ethtxn
 
 import (
 	"github.com/DaveAppleton/ether_go/ethIpc"
